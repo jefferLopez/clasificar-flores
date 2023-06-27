@@ -1,3 +1,3 @@
 ## Clasificador de Flores
 
-Pendiente crear descripción...
+Entrenamiento de un modelo clasificador de flores a partir de un algoritmo no supervisado.
